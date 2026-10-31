@@ -1,6 +1,6 @@
 # MyOS
 
-A tiny operating system built from scratch. It starts from a bootloader written in assembly, switches the computer into 32-bit mode, and then runs a small command-line terminal written in C.
+A tiny CLI based operating system built from scratch. It starts from a bootloader written in assembly, switches the computer into 32-bit mode, and then runs a small command-line terminal written in C.
 
 You type commands, it answers. That's the whole idea.
 
